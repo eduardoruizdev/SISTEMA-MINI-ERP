@@ -1,0 +1,12 @@
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\bin\Debug\net8.0\ClassesProjetoERP.deps.json
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\bin\Debug\net8.0\ClassesProjetoERP.dll
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\bin\Debug\net8.0\ClassesProjetoERP.pdb
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.csproj.AssemblyReference.cache
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.AssemblyInfoInputs.cache
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.AssemblyInfo.cs
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.csproj.CoreCompileInputs.cache
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.dll
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\refint\ClassesProjetoERP.dll
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ClassesProjetoERP.pdb
+C:\ERP-GestaoEmpresarial\backend-csharp\ClassesProjetoERP\ClassesProjetoERP\obj\Debug\net8.0\ref\ClassesProjetoERP.dll

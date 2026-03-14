@@ -1,0 +1,343 @@
+[
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.DashboardApiController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/DashboardApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.FuncionarioApiController",
+    "Method": "GetFuncionarios",
+    "RelativePath": "api/FuncionarioApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.FuncionarioApiController",
+    "Method": "CriarFuncionario",
+    "RelativePath": "api/FuncionarioApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "funcionario",
+        "Type": "ClassesProjetoERP.Classes.Models.Funcionario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.FuncionarioApiController",
+    "Method": "GetFuncionarioPorId",
+    "RelativePath": "api/FuncionarioApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.FuncionarioApiController",
+    "Method": "AtualizarFuncionario",
+    "RelativePath": "api/FuncionarioApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "funcionario",
+        "Type": "ClassesProjetoERP.Classes.Models.Funcionario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.FuncionarioApiController",
+    "Method": "ExcluirFuncionario",
+    "RelativePath": "api/FuncionarioApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.LoginApiController",
+    "Method": "Login",
+    "RelativePath": "api/LoginApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "ClassesProjetoERP.Classes.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.MovimentacaoApiController",
+    "Method": "GetMovimentacoes",
+    "RelativePath": "api/MovimentacaoApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.MovimentacaoApiController",
+    "Method": "CriarMovimentacao",
+    "RelativePath": "api/MovimentacaoApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movimentacao",
+        "Type": "ClassesProjetoERP.Classes.Models.Movimentacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.MovimentacaoApiController",
+    "Method": "AtualizarMovimentacao",
+    "RelativePath": "api/MovimentacaoApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "movimentacao",
+        "Type": "ClassesProjetoERP.Classes.Models.Movimentacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.MovimentacaoApiController",
+    "Method": "ExcluirMovimentacao",
+    "RelativePath": "api/MovimentacaoApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.SistemaApiController",
+    "Method": "GetSistema",
+    "RelativePath": "api/SistemaApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.SistemaApiController",
+    "Method": "AtualizarNomeSistema",
+    "RelativePath": "api/SistemaApi",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sistema",
+        "Type": "ClassesProjetoERP.Classes.Models.Sistema",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.TarefaApiController",
+    "Method": "GetTarefas",
+    "RelativePath": "api/TarefaApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.TarefaApiController",
+    "Method": "CriarTarefa",
+    "RelativePath": "api/TarefaApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tarefa",
+        "Type": "ClassesProjetoERP.Classes.Models.Tarefa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.TarefaApiController",
+    "Method": "AtualizarTarefa",
+    "RelativePath": "api/TarefaApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tarefa",
+        "Type": "ClassesProjetoERP.Classes.Models.Tarefa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.TarefaApiController",
+    "Method": "ExcluirTarefa",
+    "RelativePath": "api/TarefaApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.UsuarioApiController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/UsuarioApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.UsuarioApiController",
+    "Method": "CriarUsuario",
+    "RelativePath": "api/UsuarioApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "ClassesProjetoERP.Classes.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.UsuarioApiController",
+    "Method": "AtualizarUsuario",
+    "RelativePath": "api/UsuarioApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuario",
+        "Type": "ClassesProjetoERP.Classes.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.UsuarioApiController",
+    "Method": "ExcluirUsuario",
+    "RelativePath": "api/UsuarioApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPGestaoEmpresarial.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ERPGestaoEmpresarial.API.WeatherForecast, ERPGestaoEmpresarial.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
