@@ -36,7 +36,7 @@ O projeto foi desenvolvido com o objetivo de aplicar conhecimentos em desenvolvi
 
 Status
 
-Em desenvolvimento.
+Finalizado
 
 Autor
 
